@@ -13,7 +13,7 @@ $(document).ready(function() {
       $(".shadow").hide()
       $(".bilhete").fadeIn()
       $(".title").hide()
-    }, 3000)
+    }, 5000)
   })
   $(".back").click(function() {
     $(".back").fadeOut()
