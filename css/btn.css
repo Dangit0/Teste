@@ -1,0 +1,18 @@
+.back {
+  position: fixed;
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+  background-color: #69004c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 85%;
+  left: 80%;
+}
+
+.content_btn {
+  color: white;
+  font-size: 25px;
+  font-family: Monospace;
+}
